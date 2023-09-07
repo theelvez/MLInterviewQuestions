@@ -1,0 +1,26 @@
+Technical Questions
+1. Can you explain the bias-variance tradeoff in machine learning?
+
+2. What are some common distance metrics used in clustering algorithms like k-means? How do they affect the results?
+
+3. Discuss the pros and cons of using a decision tree versus a logistic regression model for a binary classification problem.
+
+4. How do you evaluate the performance of a classification model? Can you explain terms like precision, recall, and F1-score?
+
+5. What are hyperparameters in a machine learning model? How do you approach tuning them?
+
+
+Scenario-Based Questions
+1. Suppose you're working on a project to predict the price of houses in a particular region. What features would you consider using in your model?
+
+2. You've developed a natural language processing (NLP) model, and it performs well in English but poorly in other languages. What could be some reasons for this, and how might you address them?
+
+3. Imagine you're working on a fraud detection system. How would you handle the class imbalance problem often seen in such tasks?
+
+
+Soft-Skill Questions
+1. How do you handle feedback and criticism when working on a project?
+
+2. Describe a situation where you had to meet a tight deadline on a project. How did you manage it?
+
+3. What's one thing you wish you could change about the machine learning field, and why?
