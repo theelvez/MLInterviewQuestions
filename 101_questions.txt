@@ -1,0 +1,29 @@
+Preliminary Questions
+1. Tell me about yourself and your background in machine learning.
+
+Technical Questions
+1. Can you explain the difference between supervised and unsupervised learning?
+
+2. What is overfitting, and how can you avoid it?
+
+3. Describe a machine learning project you have worked on and what technologies you used. What challenges did you face and how did you overcome them?
+
+4. How do you handle missing or corrupted data in a dataset?
+
+5. Explain the concept of regularization in machine learning. Why is it important?
+
+
+Scenario-Based Questions
+1. Imagine you are working on a recommendation engine for a music streaming service. How would you approach building this model?
+
+2. Let's say you've developed a model that is 90% accurate on the training data but only 60% accurate on the test data. What steps would you take to improve its performance?
+
+3. You're given a dataset with both numerical and categorical variables. How would you preprocess this data for a machine learning model?
+
+
+Soft-Skill Questions
+1. Describe a situation where you had to collaborate with a difficult team member. How did you handle it?
+
+2. How do you keep up-to-date with the latest developments in machine learning and data science?
+
+3. What excites you the most about a career in machine learning?
